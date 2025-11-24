@@ -9,6 +9,7 @@ python3 app.py
 
 # Example
 ```
-Enter hours slept today: 2
-You've slept 120 minutes today.
+Welcome to my Python program!
+How many hours did you sleep today? 2
+You've slept 120.0 minutes today.
 ```
